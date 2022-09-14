@@ -17,7 +17,7 @@ public class Ruin {
 	System.out.println("How many simulations? ");
 	double numberofSim = game.nextDouble();
 	double losses = 0;
-	double ruinRate = 
+	double ruinrate;
 	
 	for (int i = 0; i<=numberofSim ;i++ )
 	{
