@@ -48,6 +48,6 @@ public class Ruin {
 	System.out.println("LOSE");
 	losses ++;
 	}
-	
+	 
 }
 }
